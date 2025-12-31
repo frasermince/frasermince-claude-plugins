@@ -1,0 +1,23 @@
+{
+  "name": "beginner-output-style",
+  "owner": {
+    "name": "frasermince"
+  },
+  "metadata": {
+    "description": "A Claude Code plugin marketplace for beginner-friendly teaching tools"
+  },
+  "plugins": [
+    {
+      "name": "beginner-output-style",
+      "source": "./plugins/beginner-output-style",
+      "description": "Patient, encouraging front-end development teacher for complete beginners. Uses analogies, tiny code blocks, and celebrates small wins.",
+      "version": "1.0.0",
+      "author": {
+        "name": "frasermince"
+      },
+      "license": "MIT",
+      "keywords": ["teaching", "beginner", "education", "front-end", "html", "css"],
+      "category": "education"
+    }
+  ]
+}
